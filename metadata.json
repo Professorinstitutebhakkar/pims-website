@@ -1,0 +1,6 @@
+{
+  "name": "Academy Web Design Master Prompt",
+  "description": "Comprehensive production prompt to build a premier K-12 international school web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
